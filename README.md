@@ -17,7 +17,7 @@ JavaScript (ES6)
 
 HTML/CSS
 
-Bootstrapped with create-react-app
+Material UI
 
 🚀 How to Run
 For each project:
