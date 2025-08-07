@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+body{
+  background-color: #46a7a7;
+  
+}
+form{
+  display: flex;
+  flex-direction: column;
+}
+h1{
+  margin: 250px 0px 0px 0px;
+  /* padding: 10px; */
+  font-size: 40px;
+  color: white;
+}
+input{
+  margin: 10px;
+  padding: 10px 30px ;
+  background-color: #aaf8f8;
+  opacity: calc(0.5);
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  /* max-width: 200px; */
+}
+button{
+  margin: 10px;
+  padding: 10px 93px;
+  border: none;
+  color:  #46a7a7;
+  /* max-width: 200px; */
+}
